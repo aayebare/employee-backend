@@ -21,8 +21,8 @@ This is the backend of the Employee Management System, developed using .NET. The
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/employee-management-system-backend.git
-   cd employee-management-system-backend
+   git clone https://github.com/aayebare/employee-backend.git
+   cd employee-backend
 
 ## Configuration
     in the home directory, use the command `dotnet restore` to restore the .NET depedencies
